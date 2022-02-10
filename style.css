@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.logolink {
+  color: #6070ff;
+}
+
+#hamBtn {
+  background: none;
+  border: none;
+}
+
+.links {
+  display: none;
+}
+
+.headline {
+  height: 86vh;
+  padding: 24px;
+}
+
+.background {
+  background-image: url(imgs/hl-background.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+  border-radius: 0 0 0 100px;
+}
+
+.headline h2 {
+  color: #172b4d;
+  font-size: 40px;
+  margin-top: 80px;
+  padding-right: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  line-height: 52px;
+}
+
+#hl-paragraph {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  padding-right: 20px;
+}
+
+.hl-button {
+  margin-top: 12px;
+  margin-bottom: 14px;
+  background: none;
+  border: none;
+  color: #7f8cff;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.socialmedia-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  list-style-type: none;
+}
+
+.socialmedia-icons a {
+  margin-right: 20px;
+}
