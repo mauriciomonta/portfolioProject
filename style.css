@@ -105,17 +105,14 @@ ul {
 
 .works {
   background-color: #e5e5e5;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-gap: 10px;
-  grid-auto-rows: minmax(50px, auto);
 }
 
 .work-1,
 .work-2,
 .work-3,
 .work-4 {
-  width: 76%;
+  display: flex;
+  width: 100%;
   margin-bottom: 30px;
   transition: all 0.4s ease-in-out;
 }
