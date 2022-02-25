@@ -353,7 +353,7 @@ button:disabled {
   height: 100%;
 }
 
-#contactme{
+#contactme {
   border-radius: 90px 0 0 0;
   display: flex;
   flex-direction: column;
@@ -363,39 +363,40 @@ button:disabled {
   align-items: center;
 }
 
-#contactme h2{
+#contactme h2 {
   color: #fff;
   margin-top: 50px;
   font-size: 40px;
   margin-bottom: 12px;
 }
 
-#contactme p{
+#contactme p {
   color: #fff;
-  margin: 0px 10px 40px 10px;
+  margin: 0 10px 40px 10px;
   font-size: 20px;
   font-weight: normal;
 }
 
-#contactme form{
+#contactme form {
   display: flex;
   flex-direction: column;
   width: 100%;
 }
 
-form input, #message-area{
+form input,
+#message-area {
   border: 0;
   padding: 15px;
   border-radius: 8px;
   margin-bottom: 20px;
 }
 
-#contactme button{
+#contactme button {
   background-color: #fff;
   width: fit-content;
 }
 
-#contactme button:hover{
+#contactme button:hover {
   background-color: rgba(255, 255, 255, 0.3);
   border: rgba(255, 255, 255, 1);
 }
