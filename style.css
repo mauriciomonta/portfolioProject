@@ -343,3 +343,60 @@ button:disabled {
   width: 100%;
   border: none;
 }
+
+.cf-background {
+  background-image: url(imgs/hl-background.svg);
+  background-color: #4859f7;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 90px 0 0 0;
+  height: 100%;
+}
+
+#contactme {
+  border-radius: 90px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 24px;
+  text-align: center;
+  align-items: center;
+}
+
+#contactme h2 {
+  color: #fff;
+  margin-top: 50px;
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+#contactme p {
+  color: #fff;
+  margin: 0 10px 40px 10px;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#contactme form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+form input,
+#message-area {
+  border: 0;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+#contactme button {
+  background-color: #fff;
+  width: fit-content;
+}
+
+#contactme button:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: rgba(255, 255, 255, 1);
+}
