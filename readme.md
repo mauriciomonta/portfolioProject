@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mauricio**
 
 - GitHub: [@mauriciomonta](https://github.com/mauriciomonta)
 - Twitter: [@mauriciomontadv](https://twitter.com/twitterhandle)
