@@ -471,6 +471,10 @@ form input,
     line-height: 60px;
   }
 
+  .headline p{
+    padding-right: 350px;
+  }
+
   .hl-paragraph {
     padding-right: 110px;
     font-size: 20px;
