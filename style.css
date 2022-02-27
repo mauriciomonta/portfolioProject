@@ -524,7 +524,7 @@ form input,
   }
 
   .about-project {
-    margin: 0 0 0 46px;
+    margin: 0 46px 0 46px;
     flex-direction: column;
   }
 
