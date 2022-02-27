@@ -539,12 +539,13 @@ form input,
   .about {
     display: flex;
     flex-direction: row;
-    padding: 142px 142px;
+    padding: 142px 0;
+    justify-content: center;
+    width: 100%;
   }
 
   .about-content {
     width: 40%;
-    margin-left: 160px;
   }
 
   .about h2 {
