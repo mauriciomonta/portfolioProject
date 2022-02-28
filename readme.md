@@ -13,7 +13,7 @@
 
 ## Take a look
 
-[Live Demo Link](https://mauriciomonta.github.io/portfolioProject/)
+[Live Demo 🦄](https://mauriciomonta.github.io/portfolioProject/)
 
 
 ## Getting Started
