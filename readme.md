@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Mauricio**
 
 - GitHub: [@mauriciomonta](https://github.com/mauriciomonta)
-- Twitter: [@mauriciomontadv](https://twitter.com/twitterhandle)
+- Twitter: [@maujsx](https://twitter.com/maujsx)
 - LinkedIn: [Mauricio J. Monta](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
